@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=LucasNunesSv&color=606bed)
-
 ## 💜 Hi there, I'm <strong>Lucas!</strong>
 
 > Tenho 20 anos, sou estudante do curso de Engenharia da Computação, apaixonado por filmes de 
@@ -70,3 +68,6 @@
   <a href="https://www.instagram.com/eulucasn_1/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/eulucasn_1/)"/></a>
 </p>  
+
+
+![](https://komarev.com/ghpvc/?username=LucasNunesSv&color=606bed)
