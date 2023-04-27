@@ -1,7 +1,7 @@
 ## 💜 Hi there, I'm <strong>Lucas!</strong>
 
-> Tenho 20 anos, sou estudante do curso de Engenharia da Computação, apaixonado por filmes de 
-> ficção científica, mestre em gameplays bem duvidosas, amo doguinhos. 
+> Tenho 20 anos, sou estudante do curso de Engenharia da Computação, estou explorando o universo da programação web, sou apaixonado por filmes de 
+> ficção científica, mestre em gameplays bem duvidosas e amo doguinhos. 
 
 ----
 
